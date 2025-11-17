@@ -27,7 +27,6 @@ public class About {
     private final By hoverOnVideo = By.xpath("//video[@role='application']");
 
     public void clickOnPlayVideoButton(){
-        LogsManager.info("Clicking on 'Play Video' button...");
         actionBot.click(playVideoButton);
         LogsManager.info("Video started playing successfully.");
     }
