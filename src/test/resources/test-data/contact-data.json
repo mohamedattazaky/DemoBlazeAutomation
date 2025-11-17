@@ -1,0 +1,6 @@
+{
+  "valid_email": "autotest@gmail.com",
+  "invalid_email": "autotest.com",
+  "valid_name": "AutoTest",
+  "valid_message": "I Have a Problem"
+}
