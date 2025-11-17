@@ -1101,3 +1101,342 @@
 [INFO] [17-11-2025 08:16:42] [main] pages.NavigationBar - Signup button clicked
 [INFO] [17-11-2025 08:16:42] [main] pages.NavigationBar - Verifying Signup page elements
 [INFO] [17-11-2025 08:16:43] [main] pages.NavigationBar - Signup page elements verified
+[DEBUG] [17-11-2025 08:26:13] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [17-11-2025 08:26:14] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [17-11-2025 08:26:17] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:26:17] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:26:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:26:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:26:17] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:26:20] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:26:20] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:26:20] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:26:20] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:26:20] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:26:23] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:26:24] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:26:28] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:26:30] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:26:30] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:26:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:26:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:26:30] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:26:33] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:26:33] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:26:33] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['laptop']
+[INFO] [17-11-2025 08:26:33] [main] pages.Home - Selecting laptop category
+[INFO] [17-11-2025 08:26:36] [main] pages.Home - Selecting laptop: MacBook air
+[INFO] [17-11-2025 08:26:39] [main] pages.Home - Adding laptop to cart
+[INFO] [17-11-2025 08:26:43] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:26:45] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:26:45] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:26:45] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:26:45] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:26:45] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:26:48] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:26:49] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:26:49] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:26:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:26:49] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:26:52] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:26:52] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:26:56] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:26:59] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:26:59] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:26:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:26:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:26:59] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:27:02] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:27:02] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:27:02] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:27:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:27:02] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:27:05] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:27:06] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:27:10] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:27:12] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:27:12] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:27:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:27:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:27:12] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:27:15] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:27:16] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:27:16] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:27:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:27:16] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:27:19] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:27:19] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:27:24] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:27:26] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:27:26] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:27:26] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:27:26] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:27:26] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:27:29] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:27:29] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:27:29] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:27:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:27:29] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:27:32] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:27:33] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:27:37] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:27:39] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:27:40] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:27:40] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:27:40] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:27:40] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:27:41] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:27:41] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:27:41] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:27:41] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:27:41] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:27:44] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:27:45] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:27:49] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:27:51] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:27:51] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:27:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:27:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:27:51] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:27:54] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:27:55] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:27:55] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:27:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:27:55] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:27:58] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:27:58] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:28:02] [main] pages.Home - Alert received: Product added.
+[INFO] [17-11-2025 08:28:05] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:28:05] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:28:05] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:28:05] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:28:05] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:28:08] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:28:08] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:28:08] [main] pages.Login - User logged in successfully
+[DEBUG] [17-11-2025 08:28:08] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:28:08] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:28:11] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:28:12] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:28:16] [main] pages.Home - Alert received: Product added.
+[DEBUG] [17-11-2025 08:28:19] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['laptop']
+[INFO] [17-11-2025 08:28:19] [main] pages.Home - Selecting laptop category
+[INFO] [17-11-2025 08:28:19] [main] pages.Home - Selecting laptop: MacBook air
+[INFO] [17-11-2025 08:28:22] [main] pages.Home - Adding laptop to cart
+[INFO] [17-11-2025 08:28:26] [main] pages.Home - Alert received: Product added
+[DEBUG] [17-11-2025 08:28:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['monitor']
+[INFO] [17-11-2025 08:28:28] [main] pages.Home - Selecting monitor category
+[INFO] [17-11-2025 08:28:29] [main] pages.Home - Selecting monitor: ASUS Full HD
+[INFO] [17-11-2025 08:28:31] [main] pages.Home - Adding monitor to cart
+[INFO] [17-11-2025 08:28:35] [main] pages.Home - Alert received: Product added
+[DEBUG] [17-11-2025 08:28:38] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['phone']
+[INFO] [17-11-2025 08:28:38] [main] pages.Home - Selecting phone category
+[INFO] [17-11-2025 08:28:38] [main] pages.Home - Selecting phone: Samsung galaxy s6
+[INFO] [17-11-2025 08:28:41] [main] pages.Home - Adding phone to cart
+[INFO] [17-11-2025 08:28:45] [main] pages.Home - Alert received: Product added
+[INFO] [17-11-2025 08:28:47] [main] pages.Home - Clicking on Next button
+[INFO] [17-11-2025 08:28:47] [main] pages.Home - Next button clicked
+[INFO] [17-11-2025 08:28:50] [main] pages.Home - Clicking on Previous button
+[INFO] [17-11-2025 08:28:50] [main] pages.Home - Previous button clicked
+[INFO] [17-11-2025 08:28:52] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:28:53] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:28:55] [main] pages.About - Video started playing successfully.
+[INFO] [17-11-2025 08:28:55] [main] pages.About - Hovering over the video to reveal controls...
+[INFO] [17-11-2025 08:28:55] [main] pages.About - Clicking on 'Fullscreen' button...
+[INFO] [17-11-2025 08:28:55] [main] pages.About - Fullscreen mode activated.
+[INFO] [17-11-2025 08:28:58] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:28:58] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:29:01] [main] pages.About - Video started playing successfully.
+[INFO] [17-11-2025 08:29:01] [main] pages.About - Hovering over the video to reveal controls...
+[INFO] [17-11-2025 08:29:01] [main] pages.About - Clicking on 'Mute' button...
+[INFO] [17-11-2025 08:29:01] [main] pages.About - Video muted successfully.
+[INFO] [17-11-2025 08:29:01] [main] pages.About - Clicking on 'Close' button...
+[INFO] [17-11-2025 08:29:01] [main] pages.About - About modal closed successfully.
+[INFO] [17-11-2025 08:29:04] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:29:04] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:29:04] [main] pages.About - Video started playing successfully.
+[INFO] [17-11-2025 08:29:04] [main] pages.About - Hovering over the video to reveal controls...
+[INFO] [17-11-2025 08:29:04] [main] pages.About - Clicking on 'Pause' button...
+[INFO] [17-11-2025 08:29:05] [main] pages.About - Video paused successfully.
+[INFO] [17-11-2025 08:29:05] [main] pages.About - Clicking on 'Close' button...
+[INFO] [17-11-2025 08:29:05] [main] pages.About - About modal closed successfully.
+[INFO] [17-11-2025 08:29:07] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:29:07] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:29:10] [main] pages.About - Video started playing successfully.
+[INFO] [17-11-2025 08:29:10] [main] pages.About - Hovering over the video to reveal controls...
+[INFO] [17-11-2025 08:29:10] [main] pages.About - Clicking on 'Picture-in-Picture' button...
+[INFO] [17-11-2025 08:29:10] [main] pages.About - Picture-in-Picture mode enabled.
+[INFO] [17-11-2025 08:29:10] [main] pages.About - Clicking on 'Close' button...
+[INFO] [17-11-2025 08:29:10] [main] pages.About - About modal closed successfully.
+[INFO] [17-11-2025 08:29:13] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:29:13] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:29:15] [main] pages.About - Video started playing successfully.
+[INFO] [17-11-2025 08:29:15] [main] pages.About - Clicking on 'Close' button...
+[INFO] [17-11-2025 08:29:16] [main] pages.About - About modal closed successfully.
+[INFO] [17-11-2025 08:29:18] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:18] [main] pages.NavigationBar - Login button clicked
+[INFO] [17-11-2025 08:29:18] [main] pages.Login - Performing invalid login (empty fields)
+[INFO] [17-11-2025 08:29:21] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:21] [main] pages.Login - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:29:24] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:24] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:24] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:29:24] [main] pages.Login - Performing invalid login (empty fields)
+[INFO] [17-11-2025 08:29:27] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:27] [main] pages.Login - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:29:30] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:30] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[INFO] [17-11-2025 08:29:30] [main] pages.Login - Performing invalid login (empty fields)
+[INFO] [17-11-2025 08:29:33] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:33] [main] pages.Login - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:29:35] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:36] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:29:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['wrong_password']
+[INFO] [17-11-2025 08:29:36] [main] pages.Login - Performing invalid login (wrong password) with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:29:39] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:41] [main] pages.Login - Alert received: Wrong password.
+[INFO] [17-11-2025 08:29:43] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:43] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:43] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['wrong_username']
+[DEBUG] [17-11-2025 08:29:43] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:29:43] [main] pages.Login - Performing invalid login (username not exist) with Username: Auto_Test1511205
+[INFO] [17-11-2025 08:29:46] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:48] [main] pages.Login - Alert received: User does not exist.
+[INFO] [17-11-2025 08:29:51] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:51] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:29:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:29:51] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:29:54] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:29:54] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:29:54] [main] pages.Login - User logged in successfully
+[INFO] [17-11-2025 08:29:57] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:29:57] [main] pages.NavigationBar - Login button clicked
+[DEBUG] [17-11-2025 08:29:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:29:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:29:57] [main] pages.Login - Performing valid login with Username: Auto_Test_13112025
+[INFO] [17-11-2025 08:30:00] [main] pages.Login - Clicking Login button
+[INFO] [17-11-2025 08:30:00] [main] pages.Login - Verifying user is logged in
+[INFO] [17-11-2025 08:30:00] [main] pages.Login - User logged in successfully
+[INFO] [17-11-2025 08:30:00] [main] pages.Login - Clicking Logout button
+[INFO] [17-11-2025 08:30:03] [main] pages.Login - User logged out successfully
+[INFO] [17-11-2025 08:30:07] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:08] [main] pages.NavigationBar - Signup button clicked
+[INFO] [17-11-2025 08:30:08] [main] pages.SignUp - Trying to sign up with empty fields
+[INFO] [17-11-2025 08:30:10] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:11] [main] pages.SignUp - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:30:13] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:13] [main] pages.NavigationBar - Signup button clicked
+[DEBUG] [17-11-2025 08:30:13] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[INFO] [17-11-2025 08:30:13] [main] pages.SignUp - Trying to sign up with empty fields
+[INFO] [17-11-2025 08:30:16] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:17] [main] pages.SignUp - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:30:19] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:20] [main] pages.NavigationBar - Signup button clicked
+[DEBUG] [17-11-2025 08:30:20] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:30:20] [main] pages.SignUp - Trying to sign up with empty fields
+[INFO] [17-11-2025 08:30:23] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:23] [main] pages.SignUp - Alert received: Please fill out Username and Password.
+[INFO] [17-11-2025 08:30:25] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:25] [main] pages.NavigationBar - Signup button clicked
+[DEBUG] [17-11-2025 08:30:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[INFO] [17-11-2025 08:30:25] [main] pages.SignUp - Trying invalid sign up with Username: automation_test20251117_083025
+[INFO] [17-11-2025 08:30:28] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:30] [main] pages.SignUp - Alert received: Sign up successful.
+[INFO] [17-11-2025 08:30:33] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:33] [main] pages.NavigationBar - Signup button clicked
+[INFO] [17-11-2025 08:30:33] [main] pages.SignUp - Trying invalid sign up with Username:    
+[INFO] [17-11-2025 08:30:36] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:38] [main] pages.SignUp - Alert received: This user already exist.
+[INFO] [17-11-2025 08:30:40] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:41] [main] pages.NavigationBar - Signup button clicked
+[INFO] [17-11-2025 08:30:41] [main] pages.SignUp - Trying invalid sign up with Username: @@##$$
+[INFO] [17-11-2025 08:30:44] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:46] [main] pages.SignUp - Alert received: This user already exist.
+[INFO] [17-11-2025 08:30:48] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:48] [main] pages.NavigationBar - Signup button clicked
+[DEBUG] [17-11-2025 08:30:48] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['username_already_exist']
+[DEBUG] [17-11-2025 08:30:48] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password_already_exist']
+[INFO] [17-11-2025 08:30:48] [main] pages.SignUp - Trying to sign up with existing username: AutomationTest
+[INFO] [17-11-2025 08:30:51] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:30:54] [main] pages.SignUp - Alert received: This user already exist.
+[INFO] [17-11-2025 08:30:56] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:30:56] [main] pages.NavigationBar - Signup button clicked
+[DEBUG] [17-11-2025 08:30:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_username']
+[DEBUG] [17-11-2025 08:30:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[INFO] [17-11-2025 08:30:56] [main] pages.SignUp - Filling valid sign up form with Username: automation_test20251117_083056
+[INFO] [17-11-2025 08:30:59] [main] pages.SignUp - Clicking Sign Up button
+[INFO] [17-11-2025 08:31:01] [main] pages.SignUp - Alert received: Sign up successful.
+[INFO] [17-11-2025 08:31:01] [main] pages.SignUp - Sign up successful, alert accepted
+[INFO] [17-11-2025 08:31:04] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:04] [main] pages.NavigationBar - Contact button clicked
+[INFO] [17-11-2025 08:31:04] [main] pages.Contact - Filling invalid contact form with Email: , Name: 
+[INFO] [17-11-2025 08:31:07] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:08] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:10] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:10] [main] pages.NavigationBar - Contact button clicked
+[DEBUG] [17-11-2025 08:31:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_name']
+[DEBUG] [17-11-2025 08:31:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_message']
+[INFO] [17-11-2025 08:31:10] [main] pages.Contact - Filling invalid contact form with Email: , Name: AutoTest
+[INFO] [17-11-2025 08:31:14] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:14] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:17] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:17] [main] pages.NavigationBar - Contact button clicked
+[DEBUG] [17-11-2025 08:31:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [17-11-2025 08:31:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_name']
+[INFO] [17-11-2025 08:31:17] [main] pages.Contact - Filling invalid contact form with Email: autotest@gmail.com, Name: AutoTest
+[INFO] [17-11-2025 08:31:20] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:21] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:23] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:23] [main] pages.NavigationBar - Contact button clicked
+[DEBUG] [17-11-2025 08:31:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [17-11-2025 08:31:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_message']
+[INFO] [17-11-2025 08:31:23] [main] pages.Contact - Filling invalid contact form with Email: autotest@gmail.com, Name: 
+[INFO] [17-11-2025 08:31:27] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:27] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:30] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:30] [main] pages.NavigationBar - Contact button clicked
+[DEBUG] [17-11-2025 08:31:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email']
+[DEBUG] [17-11-2025 08:31:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_name']
+[DEBUG] [17-11-2025 08:31:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_message']
+[INFO] [17-11-2025 08:31:30] [main] pages.Contact - Filling invalid contact form with Email: autotest.com, Name: AutoTest
+[INFO] [17-11-2025 08:31:33] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:34] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:36] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:36] [main] pages.NavigationBar - Contact button clicked
+[DEBUG] [17-11-2025 08:31:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [17-11-2025 08:31:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_name']
+[DEBUG] [17-11-2025 08:31:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_message']
+[INFO] [17-11-2025 08:31:36] [main] pages.Contact - Filling valid contact form with Email: autotest@gmail.com, Name: AutoTest
+[INFO] [17-11-2025 08:31:39] [main] pages.Contact - Clicking on 'Send message' button
+[INFO] [17-11-2025 08:31:40] [main] pages.Contact - Alert text received: Thanks for the message!!
+[INFO] [17-11-2025 08:31:40] [main] pages.Contact - Alert accepted, form submitted successfully
+[INFO] [17-11-2025 08:31:42] [main] pages.NavigationBar - Clicking About button
+[INFO] [17-11-2025 08:31:43] [main] pages.NavigationBar - About button clicked
+[INFO] [17-11-2025 08:31:43] [main] pages.NavigationBar - Verifying About page elements
+[INFO] [17-11-2025 08:31:43] [main] pages.NavigationBar - About page elements verified
+[INFO] [17-11-2025 08:31:45] [main] pages.NavigationBar - Clicking Cart button
+[INFO] [17-11-2025 08:31:46] [main] pages.NavigationBar - Cart button clicked
+[INFO] [17-11-2025 08:31:46] [main] pages.NavigationBar - Verifying Cart page URL
+[INFO] [17-11-2025 08:31:47] [main] pages.NavigationBar - Cart page URL verified
+[INFO] [17-11-2025 08:31:49] [main] pages.NavigationBar - Clicking Contact button
+[INFO] [17-11-2025 08:31:50] [main] pages.NavigationBar - Contact button clicked
+[INFO] [17-11-2025 08:31:50] [main] pages.NavigationBar - Verifying Contact page elements
+[INFO] [17-11-2025 08:31:50] [main] pages.NavigationBar - Contact page elements verified
+[INFO] [17-11-2025 08:31:52] [main] pages.NavigationBar - Clicking Home button
+[INFO] [17-11-2025 08:31:54] [main] pages.NavigationBar - Home button clicked
+[INFO] [17-11-2025 08:31:54] [main] pages.NavigationBar - Verifying Home page URL
+[INFO] [17-11-2025 08:31:54] [main] pages.NavigationBar - Home page URL verified
+[INFO] [17-11-2025 08:31:56] [main] pages.NavigationBar - Clicking Login button
+[INFO] [17-11-2025 08:31:56] [main] pages.NavigationBar - Login button clicked
+[INFO] [17-11-2025 08:31:56] [main] pages.NavigationBar - Verifying Login page elements
+[INFO] [17-11-2025 08:31:56] [main] pages.NavigationBar - Login page elements verified
+[INFO] [17-11-2025 08:31:59] [main] pages.NavigationBar - Clicking Signup button
+[INFO] [17-11-2025 08:31:59] [main] pages.NavigationBar - Signup button clicked
+[INFO] [17-11-2025 08:31:59] [main] pages.NavigationBar - Verifying Signup page elements
+[INFO] [17-11-2025 08:31:59] [main] pages.NavigationBar - Signup page elements verified
